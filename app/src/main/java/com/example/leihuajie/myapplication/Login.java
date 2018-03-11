@@ -5,4 +5,8 @@ package com.example.leihuajie.myapplication;
  */
 
 public class Login {
+
+    String name;
+    int id;
 }
+
